@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "react-props",
+			"path": "..\\..\\react-props"
+		},
+		{
+			"name": "keeper-app-part-1-starting",
+			"path": "..\\..\\keeper-app-part-1-starting"
+		},
+		{
+			"name": "my-app",
+			"path": "..\\..\\..\\my-app"
+		},
+		{
+			"name": "propcards",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
